@@ -1,0 +1,37 @@
+Valor: A autenticação dos usuários na loja virtual é importante para que os clientes possam se cadastrar na plataforma com segurança e fazer pedidos de compra. Essa funcionalidade visa unificar fluxo de acesso ao site, permitindo que o usuário se cadastre, faça login ou redefinia senha.
+
+Narrativa do usuário:                                                                                                                                                                            
+
+          Como cliente
+
+           Eu quero acessar a página de login do usuário
+
+           Para visualizar opções de cadastro de nova conta, login ou redefinição de senha, na loja virtual.
+
+Requisitos Técnicos
+
+Atores: cliente
+
+Interface: ver documento em ANEXOS
+
+Dados: 
+
+Criação de banco de dados/ tabelas para armazenar informações dos usuários cadastrados
+
+Criação de API para integração com front-end e banco
+
+Criação de tela de login para permitir que o usuário acesse página de login, cadastro e redefinição de senha
+
+Plataforma/ambiente:
+
+Web/Web Mobile
+
+Devem ser configuradas ambientes e pipelines para desenvolvimento, homologação de usuários, homologação QA e produção
+
+Critérios de aceite:
+
+Usuário deverá visualizar formulário para fazer login e entrar na loja virtual
+
+Usuário deverá visualizar botão para acessar tela de cadastro de nova conta
+
+Usuário deverá visualizar botão para acessar tela de redefinição de senha
